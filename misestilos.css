@@ -1,0 +1,37 @@
+h1,h2,h3,h4,h5,h6,p{margin: 10px}
+.texto{color: blueviolet;
+    font-weight: 900;
+    font-size: 15px;
+    font-family: arial, tahoma, georgia, sans-serif;
+}
+a{color: chartreuse;
+    text-decoration: none;
+    border: none;
+    }
+a:hover{
+    color: crimson;
+}
+#principio {
+    
+}
+
+#contents {
+    width: 80%;
+        margin: 0 auto;
+    padding: 10px;
+    background-color: blue;
+}
+
+.bloque_derecha {
+    display: inline-block;
+    width: 40%;
+}
+
+.bloque_izquierda {
+    display: inline-block;
+    width: 40%;
+}
+
+ul {
+    list-style: circle;
+}
